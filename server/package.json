@@ -1,0 +1,12 @@
+{
+  "name": "forge_interview_server",
+  "version": "1.0.0",
+  "description": "Forge Interview Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
