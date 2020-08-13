@@ -3,15 +3,15 @@
 ### How to start the server
 ```sh
 cd server
-yarn install
-yarn start
+yarn install or npm install
+yarn start or npm start
 ```
 
 ### How to start the app
 ```sh
 cd app
-yarn install
-yarn start
+yarn install or npm install
+yarn start or npm start
 ```
 
 ### What you need to do

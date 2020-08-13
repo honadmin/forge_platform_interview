@@ -9,6 +9,22 @@ function App() {
         <img src={logo} className="logo" alt="logo" />
         <p>Welcome to Forge Platform Interview</p>
       </header>
+      <form>
+        <label>
+        Search
+        <input type="text" name="search" />
+        </label>
+      </form>
+      <table>
+          <tr>
+            <th>Title</th>
+            <th>Description</th>
+          </tr>
+          <tr>
+            <td>Interview</td>
+            <td>Do interview</td>
+          </tr>
+      </table>
     </div>
   );
 }
