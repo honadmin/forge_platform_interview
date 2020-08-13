@@ -15,7 +15,7 @@ yarn start
 ```
 
 ### What you need to do
-#### Server:
+#### Server
 Implement the following routes
 - Create a todo object
 - Get all todo objects
@@ -30,13 +30,9 @@ A todo object contains a title and a description
 }
 ```
 	
-#### App:
-Make an api request to the server to get all todos objects and provide a textbox to filter the todo list by title.
+#### App
+Make an api request to the server to get all todos objects and provide a textbox to filter todos by title. You can use a table to show all filtered todos.
 
-You can choose any libraries to make the request. 
-
-You can use a table to show all filtered todos
-
-You don't need to worry about styling
-
-**Remarks: It is not require to implement create, update delete function in the UI. # New Document**
+- Choose any libraries to make the request
+- Don't need to worry about styling
+- It is not required to implement create, update delete function in the App
