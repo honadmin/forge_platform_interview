@@ -16,11 +16,7 @@ yarn start or npm start
 
 ### What you need to do
 #### Server
-Implement the following routes
-- Create a todo object
-- Get all todo objects
-- Update a todo object
-- Delete a todo object
+Implement a full CRUD cycle for a todo app
 
 A todo object contains a title and a description
 ```javascript
